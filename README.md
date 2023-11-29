@@ -1,2 +1,2 @@
-# neural_package.egg-info
+# neural_package
 Firing Rate Determination

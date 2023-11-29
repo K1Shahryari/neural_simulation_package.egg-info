@@ -1,0 +1,7 @@
+setup.py
+neural_simulation_package.egg-info/PKG-INFO
+neural_simulation_package.egg-info/SOURCES.txt
+neural_simulation_package.egg-info/dependency_links.txt
+neural_simulation_package.egg-info/neural-simulation-package.py
+neural_simulation_package.egg-info/requires.txt
+neural_simulation_package.egg-info/top_level.txt
